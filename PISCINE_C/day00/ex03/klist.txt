@@ -1,0 +1,5 @@
+Credentials cache: API:47664
+        Principal: agacayan@42.US.ORG
+
+  Issued                Expires               Principal
+Jan  7 13:05:11 2019  Jan  7 23:05:11 2019  krbtgt/42.US.ORG@42.US.ORG
